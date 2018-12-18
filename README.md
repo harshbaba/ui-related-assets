@@ -11,7 +11,10 @@ Reference Link:
 https://sourceforge.net/projects/vscode-portable/
 
 #Portable Git
-Run This Setup "PortableGit-2.20.1-64-bit.7z.exe"
+Download Git Bash from 
+https://git-scm.com/download/win
+https://github.com/git-for-windows/git/releases/download/v2.20.1.windows.1/PortableGit-2.20.1-64-bit.7z.exe
+Run this setup.
 Note: You dont need admin access for this.
 
 Note: After get GIT you need to set "path" in environment variable.

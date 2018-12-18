@@ -42,6 +42,10 @@ Extract it to any folder and edit environment variable path then add below line:
 Example:C:\myRoot\softwares\npm
 For more info (see set-path-screenshot1.png & set-path-screenshot2.png)
 
+#Install Beyond Compare without admin rights
+https://www.scootersoftware.com/download.php?zz=kb_dl4_winalternate
+>Download zip file then extract and run
+
 
 
 

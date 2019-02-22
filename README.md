@@ -1,6 +1,10 @@
-#Google Chrome Installer: 
+﻿#Google Chrome Installer: 
 Note: You dont need admin access for this.
 "ChromeSetup.exe"
+
+#Firefox Installer: 
+Note: You dont need admin access for this. (if prompt open for admin access user id & password, then select "No")
+"Firefox Installer.exe"
 
 #Vs Code Portable
 Run This Setup "VSCodePortable_latest_online.paf.exe"
